@@ -1,0 +1,25 @@
+.searches {
+  width: 50%;
+  margin: 10px auto;
+  border: 3px solid gray;
+  background-color: white ;
+}
+
+.inputmain{
+  width: 35%;
+  margin: 0px auto;
+  padding-top: 100px;
+  font-family: 'Oswald', Sans-Serif;
+  text-align:center;
+  color: white;
+}
+
+body{
+  background-color: 	#3399ff;
+}
+
+.listing{
+  font-family: 'Oswald', Sans-Serif;
+  
+}
+
